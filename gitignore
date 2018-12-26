@@ -1,0 +1,20 @@
+######################
+# Project Specific
+######################
+/src/main/webapp/content/css/main.css
+/target/www/**
+/src/test/javascript/coverage/
+/src/test/javascript/PhantomJS*/
+
+######################
+# Node
+######################
+/node/
+node_tmp/
+GATEWAY/node_modules/
+myApp/node_modules/
+registry/node_modules/
+npm-debug.log.*
+/.awcache/*
+
+
